@@ -4,9 +4,10 @@
  
     ->2 star coder on codechef (profile:- https://www.codechef.com/users/siddhant_rao)
     ->Web Enthusiasts (currently in the process of learning react)
-I know c, c++, c#, java, python, html, css, javascript and I also enjoy making projects in Java swing.
+    
+Technologies that i know are: c, c++, c#, java, python, html, css, javascript, react, nodejs, express, mysql, mongodb, material ui, tailwind, bootstrap and I also enjoy making projects in Java swing.
    
-contact : siddhant.rao2003@gmail.com
+contact : siddhant.rao@spit.ac.in
 
 <!---
 Sidd-R/Sidd-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
