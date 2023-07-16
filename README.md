@@ -3,12 +3,17 @@
  I'm :
  
     ->a 2 star coder on codechef (profile:- https://www.codechef.com/users/siddhant_rao)
-    ->Well versed with Web Development
-    ->Interested in app development and blockchain (currently in the process of learning react native)
+    ->Well versed with Web and App Development 
+    ->Interested in Data Science and Machine Learning (currently in the process of learning the same)
     
-Technologies that i know are: c, c++, c#, java, python, html, css, javascript, react, react native, nodejs, express, mysql, mongodb, material ui, tailwind, bootstrap, blender, gimp, autocad and I also enjoy making projects in Java swing.
+Technologies that i know are: c, c++, c#, java, kotlin, python, html, css, javascript, react, next.js, react native, flutter, android native(Jetpack Compose), nodejs, express.js, mysql, mongodb, firebase, material ui, tailwindCss, bootstrap, blender, gimp, autocad and I also enjoy making projects in Java swing.
    
-contact : siddhant.rao@spit.ac.in
+contact : 
+
+   -> Email: siddhant.rao2003@gmail.com
+
+   -> mobile: +91 7021746420
+
 
 <!---
 Sidd-R/Sidd-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
