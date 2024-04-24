@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [distributed image enhancement system](https://github.com/Sidd-R/Distributed-Image-Enhancement-System)
 
-- 🌱 I’m currently learning **gRPC and data science**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **siddhant.rao2003@gmail.com**
 
