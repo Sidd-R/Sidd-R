@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **siddhant.rao2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IoWZzHROMV1EAVk4JjIrvkAwf1bTpU_P/view?usp=sharing&usp=embed_facebook](https://drive.google.com/file/d/1IoWZzHROMV1EAVk4JjIrvkAwf1bTpU_P/view?usp=sharing&usp=embed_facebook)
+- 📄 Know about my experiences [resume]( https://bit.ly/3X5ABsx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
