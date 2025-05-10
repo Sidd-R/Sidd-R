@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd-r&label=Profile%20views&color=0e75b6&style=flat" alt="sidd-r" /> </p>
 
-- 🔭 I’m currently working on [distributed image enhancement system](https://github.com/Sidd-R/Distributed-Image-Enhancement-System)
-
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning explore the Ai/Ml domain
 
 - 📫 How to reach me **siddhant.rao2003@gmail.com**
 
-- 📄 Know about my experiences [resume]( https://bit.ly/3X5ABsx)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yXObJdTaT_ejaT_8NQU-4IkqzsY1MRKB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
