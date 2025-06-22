@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd-r&label=Profile%20views&color=0e75b6&style=flat" alt="sidd-r" /> </p>
 
-- 🌱 I’m currently learning explore the Ai/Ml domain
+- 🌱 I’m currently exploring the Ai/Ml domain
 
 - 📫 How to reach me **siddhant.rao2003@gmail.com**
 
